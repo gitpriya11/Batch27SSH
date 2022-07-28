@@ -1,1 +1,4 @@
-adding file to dev branch
+#! /bin/sh
+mkdir newdir
+cd newdir
+echo 'created directory'
