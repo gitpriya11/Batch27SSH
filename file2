@@ -1,0 +1,5 @@
+#! bin/sh
+echo 'make directory'
+mkdir newdir
+cd newdir
+echo 'creating directory'
