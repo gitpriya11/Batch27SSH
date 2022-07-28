@@ -2,3 +2,4 @@
 mkdir newdir
 cd newdir
 echo 'created directory'
+echo 'hi'
